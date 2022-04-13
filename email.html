@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Route 66 Album</title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+  <link rel="stylesheet" href="./styles/reset.css" />
+  <link rel="stylesheet" href="./styles/base.css" />
+  <link rel="stylesheet" href="./styles/layout.css" />
+  <link rel="stylesheet" href="./styles/header.css" />
+  <link rel="stylesheet" href="./styles/main.css" />
+  <link rel="stylesheet" href="./styles/footer.css" />
+</head>
+<body>
+
+  <header>
+    <nav>
+      <div class="logo-container">
+        <a href="./index.html"><img src="./Assets/Pics/route66sign.png" alt="logo" /></a>
+      </div>
+      <div class="album-name">
+        <h3>Route 66 Photo Album</h3>
+      </div>
+      <div class="page-arrows">
+        <a href="./carthage.html"><img src="./assets/pics/left-arrow.png" alt="left arrow" /></a>
+        <h3></h3><a href="./carthage.html">&nbsp;Carthage, MO</a></h3>
+        <h2>&nbsp;- Baxter Springs, IL -&nbsp;</h2>
+        <a href="./miami.html">Miami, OK&nbsp;</a>
+        <a href="./miami.html"><img src="./assets/pics/right-arrow.png" alt="right arrow" /></a>
+      </div>
+      <div id="navBarLinks">
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <div class=site-nav>
+      <ul>
+        <li><strong>Route 66</strong></li>
+        <li><a href="./chicago.html"><strong>Illinois Route 66</strong></a></li>
+        <li><a href="./stlouis.html"><strong>Missouri Route 66</strong></a></li>
+        <li><a href="./baxtersprings.html"><strong>Kansas Route 66</strong></a></li>     
+        <li><a href="./miami.html"><strong>Oklahoma Route 66</strong></a></li>
+        <li><a href="./shamrock.html"><strong>Texas Route 66</strong></a></li>
+        <li><a href="./endee.html"><strong>New Mexico Route 66</strong></a></li>
+        <li><a href="./lupton.html"><strong>Arizona Route 66</strong></a></li>
+        <li><a href="./amboy.html"><strong>California Route 66</strong></a></li>   
+      </ul> 
+    </div>
+
+    <div class="gallery y-wrap">
+      <div class="email-container">
+        <form method="post" action="https://formspree.io/f/xqkwgvja">
+          <div class="row">
+            <h3 style="margin-top: 80px">You can send me an email with the web form below. I look forward to hearing from you.</h3>
+            <div class="site-field"><input type="text" value="Route 66 Photo Album" readonly="readonly" name="site" placeholder="Site" style="height: 60px; width: 300px"/></div>
+            <div class="name-field"><input type="text" name="name" placeholder="Name" style="height: 60px; width: 300px"/></div>
+            <div class="email-field"><input type="text" name="email" placeholder="Email" style="height: 60px; width: 300px"/></div>
+            <div>
+              <textarea name="message" placeholder="Message" style="height: 200px; width: 600px"></textarea>
+            </div>
+            <div class="send-button">
+              <input type="submit" value="Send Email Message" />
+            </div>
+          </div>
+        </form>
+      </div>
+    </div> 
+
+
+  </main>
+
+  <div class=out-nav>
+    <ul>
+      <!-- <li><strong>Sights in Baxter Springs, KS</strong></li> -->
+      <!-- <li><a href="http://www.baxterspringsmuseum.org/Visitor-s-Center.html" target="_blank">Baxter Springs - Phillips 66</a></li> -->
+      <!-- <li><a href="https://rialtosquare.com/history/">Rialto Square Theater</a></li> -->
+    </ul>  
+  </div>  
+
+  <footer id=footerBar>
+  </footer>
+	<script src="./js/ksSiteNav.js"></script>
+  <script src="./js/navBarLinks.js"></script>
+  <script src="./js/footer.js"></script>
+</body>
+</html>

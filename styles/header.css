@@ -1,0 +1,52 @@
+header {
+  background-color: burlywood;
+}
+
+nav {
+  background-color: burlywood;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0px;
+  position: fixed;
+  width: 100%;
+}
+
+.logo-container {
+  width: 160px;
+  margin-left: 3rem;
+}
+
+.logo-container img {
+  height: 40px;
+}
+
+.album-name {
+  align-items: center;
+  display: flex;
+}
+
+.page-arrows {
+  align-items: center;
+  display: flex;
+  font-weight: bold;
+}
+
+.page-arrows img {
+  height: 25px;
+}
+
+.navs {
+  align-items: center;
+  display: flex;
+  list-style-type: none;
+  margin-right: 3rem;
+  margin-top: 12px;
+}
+
+.navs li {
+  margin-left: 18px;
+}
+
+.selected {
+  color: blueviolet;
+}
