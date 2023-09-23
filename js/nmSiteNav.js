@@ -27,5 +27,7 @@ var navLinks = document.getElementById("siteNav");
             <li><a href="./road2divide.html">Road to Continental Divide</a></li>    
             <li><a href="./divide.html">Continental Divide</a></li>
             <li><a href="./road2lupton.html">Road to Lupton</a></li>
+            <li><a href="./lupton.html"><strong>Arizona Route 66</strong></a></li>
+            <li><a href="./amboy.html"><strong>California Route 66</strong></a></li> 
         </ul>  
         `;
