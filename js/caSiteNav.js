@@ -14,17 +14,16 @@ var navLinks = document.getElementById("siteNav");
             <li><a href="./shamrock.html"><strong>Texas Route 66</strong></a></li>
             <li><a href="./endee.html"><strong>New Mexico Route 66</strong></a></li>
             <li><a href="./lupton.html"><strong>Arizona Route 66</strong></a></li>
-            <strong>California Route 66</strong></a></li>  
+            <li><strong>California Route 66</strong></a></li>  
             <li><a href="./amboy.html">Amboy</a></li>
             <li><a href="./ludlow.html">Ludlow</a></li>
             <li><a href="./newberrysprings.html">Newberry Springs</a></li>
-            <li><a href="./Barstow.html">Barstow</a></li>    
-            <li><a href="./road2victorville.html">Road to Victorville</a></li>
+            <li><a href="./Barstow.html">Barstow</a></li>
             <li><a href="./victorville.html">Victorville</a></li>
             <li><a href="./sanbernardino.html">San Bernardino</a></li>
             <li><a href="./rialto.html">Rialto</a></li>    
             <li><a href="./ranchocucamonga.html">Rancho Cucamonga</a></li>
-            <li><a href="./arcadia.html">Arcadia</a></li>
+            <li><a href="./arcadia-ca.html">Arcadia</a></li>
             <li><a href="./santamonica.html">Santa Monica</a></li>
         </ul>  
         `;
