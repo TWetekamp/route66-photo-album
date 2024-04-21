@@ -9,14 +9,12 @@ This website takes the you through my photos from my 2012 1 week trip the full 1
 1. JAVASCRIPT
 1. GITHUB
 1. JSON
-1. BOOTSTRAP
 
 <div align="left">
   <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" />
   <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" />
   <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" />
   <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" />
-  <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
 </div> 
 
 ## API:
@@ -28,6 +26,7 @@ This website takes the you through my photos from my 2012 1 week trip the full 1
 ## Links:
   - [Route 66 Photo Album](https://github.com/TWetekamp/r66-photo-album)
   - [Github Scrum Board](https://github.com/TWetekamp/r66-photo-album/projects/1)
+  - [Route 66 Photo Album](https://twetekamp.github.io/route66-photo-album/index.html)
 
 ## JS library:
 
