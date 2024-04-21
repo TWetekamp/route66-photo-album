@@ -24,9 +24,9 @@ This website takes the you through my photos from my 2012 1 week trip the full 1
 - [search](https://www.boredapi.com/)
 
 ## Links:
-  - [Route 66 Photo Album](https://github.com/TWetekamp/r66-photo-album)
+  - [Route 66 Photo Album Repo](https://github.com/TWetekamp/r66-photo-album)
   - [Github Scrum Board](https://github.com/TWetekamp/r66-photo-album/projects/1)
-  - [Route 66 Photo Album](https://twetekamp.github.io/route66-photo-album/index.html)
+  - [Route 66 Photo Album Website](https://twetekamp.github.io/route66-photo-album/index.html)
 
 ## JS library:
 
