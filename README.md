@@ -19,19 +19,12 @@ This website takes the you through my photos from my 2012 1 week trip the full 1
 
 ## API:
 
-- [wiki](https://developer.edamam.com/edamam-recipe-api-demo)
-
-- [search](https://www.boredapi.com/)
-
 ## Links:
   - [Route 66 Photo Album Repo](https://github.com/TWetekamp/r66-photo-album)
   - [Github Scrum Board](https://github.com/TWetekamp/r66-photo-album/projects/1)
   - [Route 66 Photo Album Website](https://twetekamp.github.io/route66-photo-album/index.html)
 
 ## JS library:
-
-- [TBD](https://www.cornify.com/extras)
-
 
 ## Developed by:
 
@@ -43,3 +36,4 @@ R66 Photo Album Product Backlog
 3. Complete development including reference pages
 4. Continue development of travelogue content.
 5. Change footer to extend the full width of the web pages.
+6. Make fully responsive.
